@@ -12,3 +12,6 @@
 *.h5
 *.hd5
 *.model
+
+# Binaries Skipped
+*.tfrecord
