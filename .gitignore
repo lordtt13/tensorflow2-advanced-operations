@@ -15,3 +15,4 @@
 
 # Binaries Skipped
 *.tfrecord
+*.tfrecords
