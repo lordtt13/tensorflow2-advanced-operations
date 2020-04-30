@@ -5,6 +5,7 @@
 *.csv
 *.txt
 *.png
+*.tsv
 *.jpg
 *.jpeg
 
