@@ -16,5 +16,7 @@
 Special Projects/models/
 
 # Binaries Skipped
+ckpt*
+checkpoint
 *.tfrecord
 *.tfrecords
