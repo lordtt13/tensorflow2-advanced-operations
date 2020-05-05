@@ -21,3 +21,5 @@ checkpoint
 *.tfrecord
 *.tfrecords
 tf_hub/random_projection_matrix
+tf_hub/index
+tf_hub/index.mapping
