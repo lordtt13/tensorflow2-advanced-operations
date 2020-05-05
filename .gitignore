@@ -20,3 +20,4 @@ ckpt*
 checkpoint
 *.tfrecord
 *.tfrecords
+tf_hub/random_projection_matrix
