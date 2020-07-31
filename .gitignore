@@ -15,6 +15,7 @@
 *.hd5
 *.model
 Special Projects/models/
+Special Projects/checkpoints/
 
 # Binaries Skipped
 ckpt*
