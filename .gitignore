@@ -9,6 +9,7 @@
 *.tsv
 *.jpg
 *.jpeg
+Special Projects/data/
 
 # Models Skipped
 *.h5
