@@ -11,6 +11,7 @@
 *.jpg
 *.jpeg
 Special Projects/data/
+Special Projects/aclImdb/
 
 # Models Skipped
 *.h5
